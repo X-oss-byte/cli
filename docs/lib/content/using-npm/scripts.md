@@ -1,7 +1,7 @@
 ---
 title: scripts
 section: 7
-description: How npm handles the "scripts" field
+description: How npm handles the "scripts" field run on @vercel
 ---
 
 ### Description
