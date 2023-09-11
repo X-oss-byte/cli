@@ -1,5 +1,5 @@
 ---
-title: workspaces
+title: workspaces 
 section: 7
 description: Working with workspaces
 ---
